@@ -1,0 +1,749 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-05-25T08:02:36.139-03:00
+  initializedAtString: 2021-05-25T08:02:22.115-03:00
+  log:
+  - commitID: 9fd59017e86dc8f1757e3b00a3de08fde59a4a2e
+    mergeA: 
+    mergeB: 
+    authorName: Artdays
+    authorEmail: 78804994+Artdays@users.noreply.github.com
+    commitEmail: 78804994+Artdays@users.noreply.github.com
+    commitName: Artdays
+    summary: hasagi
+    description: 
+    timeString: 2021-05-18T17:40:01.000-03:00
+    commitTimeString: 2021-05-18T17:40:01.000-03:00
+    changes:
+    - path: Assets\Aumentar.cs
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Aumentar.cs"
+      projectPath: Assets\Aumentar.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Aumentar.cs.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Aumentar.cs.meta"
+      projectPath: Assets\Aumentar.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Boncines forte.physicsMaterial2D
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Boncines
+        forte.physicsMaterial2D"
+      projectPath: Assets\Boncines forte.physicsMaterial2D
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Boncines forte.physicsMaterial2D.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Boncines
+        forte.physicsMaterial2D.meta"
+      projectPath: Assets\Boncines forte.physicsMaterial2D.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Materials.meta"
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\poyo.jpg
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Materials\\poyo.jpg"
+      projectPath: Assets\Materials\poyo.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\poyo.jpg.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Materials\\poyo.jpg.meta"
+      projectPath: Assets\Materials\poyo.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets\\Movimenta\xE7\xE3o.cs"
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Movimenta\xE7\xE3o.cs"
+      projectPath: "Assets\\Movimenta\xE7\xE3o.cs"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets\\Movimenta\xE7\xE3o.cs.meta"
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Movimenta\xE7\xE3o.cs.meta"
+      projectPath: "Assets\\Movimenta\xE7\xE3o.cs.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins.meta"
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub.meta"
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor.meta"
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\AsyncBridge.Net35.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\AsyncBridge.Net35.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\ExtensionLoader.cs"
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\ExtensionLoader.cs.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.45.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.45.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.45.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.45.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.UnityShim.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\GitHub.UnityShim.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\Mono.Posix.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\Mono.Posix.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\QuickGuide.pdf"
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\QuickGuide.pdf.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\ReadOnlyCollectionsInterfaces.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\ReadOnlyCollectionsInterfaces.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\System.Threading.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\System.Threading.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\UnityAPIWrapper.cs"
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\UnityAPIWrapper.cs.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\big-logo@2x.png"
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\big-logo@2x.png.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\credits.txt"
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\credits.txt.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\eula.txt"
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\eula.txt.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\libsfw.bundle"
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\libsfw.bundle.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\libsfw.so"
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\libsfw.so.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\sfw.net.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\sfw.net.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x64.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x64\\pthreadVC2.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x64\\pthreadVC2.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x64\\sfw_x64.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x64\\sfw_x64.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x86.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x86\\pthreadVC2.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x86\\pthreadVC2.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x86\\sfw_x86.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Plugins\\GitHub\\Editor\\x86\\sfw_x86.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Samples.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Samples.meta"
+      projectPath: Assets\Samples.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Samples\2D Animation.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Samples\\2D
+        Animation.meta"
+      projectPath: Assets\Samples\2D Animation.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Scenes.meta"
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Scenes\\SampleScene.unity"
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\Scenes\\SampleScene.unity.meta"
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall.meta"
+      projectPath: Assets\TileableBricksWall.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Materials.meta"
+      projectPath: Assets\TileableBricksWall\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat 1.mat
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Materials\\Bricks_01_mat
+        1.mat"
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat 1.mat.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Materials\\Bricks_01_mat
+        1.mat.meta"
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat.mat
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Materials\\Bricks_01_mat.mat"
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat.mat.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Materials\\Bricks_01_mat.mat.meta"
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Materials\\Bricks_01_mat2.mat"
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Materials\\Bricks_01_mat2.mat.meta"
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures.meta"
+      projectPath: Assets\TileableBricksWall\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Bricks_diffuse.TGA"
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Bricks_diffuse.TGA.meta"
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_gloss.TGA
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Bricks_gloss.TGA"
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_gloss.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_gloss.TGA.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Bricks_gloss.TGA.meta"
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_gloss.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_normal.TGA
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Bricks_normal.TGA"
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_normal.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_normal.TGA.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Bricks_normal.TGA.meta"
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_normal.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_specular.TGA
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Bricks_specular.TGA"
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_specular.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_specular.TGA.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Bricks_specular.TGA.meta"
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_specular.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Height_map.TGA
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Height_map.TGA"
+      projectPath: Assets\TileableBricksWall\Textures\Height_map.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Height_map.TGA.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\TileableBricksWall\\Textures\\Height_map.TGA.meta"
+      projectPath: Assets\TileableBricksWall\Textures\Height_map.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\halks.jpg
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\halks.jpg"
+      projectPath: Assets\halks.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\halks.jpg.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\halks.jpg.meta"
+      projectPath: Assets\halks.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\neymito.png
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\neymito.png"
+      projectPath: Assets\neymito.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\neymito.png.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\neymito.png.meta"
+      projectPath: Assets\neymito.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\quicar.physicsMaterial2D
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\quicar.physicsMaterial2D"
+      projectPath: Assets\quicar.physicsMaterial2D
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\quicar.physicsMaterial2D.meta
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\quicar.physicsMaterial2D.meta"
+      projectPath: Assets\quicar.physicsMaterial2D.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Packages\\manifest.json"
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Packages\\packages-lock.json"
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\AudioManager.asset"
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\ClusterInputManager.asset"
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\DynamicsManager.asset"
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\EditorBuildSettings.asset"
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\EditorSettings.asset"
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\GraphicsSettings.asset"
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\InputManager.asset"
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\NavMeshAreas.asset"
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\NetworkManager.asset"
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\PackageManagerSettings.asset"
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\Physics2DSettings.asset"
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\PresetManager.asset"
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\ProjectSettings.asset"
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\ProjectVersion.txt"
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\QualitySettings.asset"
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\TagManager.asset"
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\TimeManager.asset"
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\UnityConnectSettings.asset"
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\VFXManager.asset"
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\VersionControlSettings.asset"
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\ProjectSettings\\XRSettings.asset"
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\UserSettings\\EditorUserSettings.asset"
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 43f54eb47c747b3be2f5b2e2f4a9a21773bfc45a
+    mergeA: 
+    mergeB: 
+    authorName: Artdays
+    authorEmail: 78804994+Artdays@users.noreply.github.com
+    commitEmail: 78804994+Artdays@users.noreply.github.com
+    commitName: Artdays
+    summary: Initial commit
+    description: 
+    timeString: 2021-05-18T17:16:17.000-03:00
+    commitTimeString: 2021-05-18T17:16:17.000-03:00
+    changes:
+    - path: .gitattributes
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\.gitattributes"
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\.gitignore"
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: "C:\\Users\\Admin\\Documents\\Escola\\L.P\\cen\xE1rio\\Assets\\.gitignore"
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
